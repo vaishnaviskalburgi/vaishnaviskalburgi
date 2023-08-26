@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Vaishnavi S Kalburgi
-- 🌱 I’m currently learning Meran Stack
-- 👀 I’m currently working on E-library using JSP
+- 🌱 I’m currently learning Meran Stack. 
 - 📫 How to reach me vaishkalburgi33@gmail.com
 
 <!---
