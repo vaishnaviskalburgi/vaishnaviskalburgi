@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vaishnavi S Kalburgi
-- 🌱 I’m currently learning Meran Stack. 
+- 👀 I’m currently learning PYTHON
 - 📫 How to reach me vaishkalburgi33@gmail.com
 
 <!---
